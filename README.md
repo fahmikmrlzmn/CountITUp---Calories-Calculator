@@ -5,8 +5,8 @@ CountItUp is a simple Python GUI application that helps users calculate their da
 This project is built using Python and Tkinter and is designed for beginners who want to understand health-related calculations and GUI development.
 
 ✨ Features
--User-friendly graphical interface
--Calculates:
+- User-friendly graphical interface
+- Calculates:
    1. Basal Metabolic Rate (BMR)
    2. Daily calorie requirements
    3. Body Mass Index (BMI)
